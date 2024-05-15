@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co/hcqnpXZ/01.jpg",
+      "title": "The Adventure of a Lifetime",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/RQMkwk2/logo1.jpg",
+      "posted_date": "2024-04-01",
+      "reading_time": 10,
+      "hashtags": ["#Adventure", "#Travel", "#Exploration"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co/RjYkYMW/02.jpg",
+      "title": "The Secrets of the Hidden Forest",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/R0nL59d/logo2.jpg",
+      "posted_date": "2024-03-28",
+      "reading_time": 8,
+      "hashtags": ["#Nature", "#Forest", "#Discovery"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co/QNyH4J6/03.jpg",
+      "title": "Mastering the Art of Cooking",
+      "author": "Chef Michael",
+      "author_img": "https://i.ibb.co/prZ1Q9d/logo3.jpg",
+      "posted_date": "2024-03-30",
+      "reading_time": 12,
+      "hashtags": ["#Cooking", "#Recipes", "#Food"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co/hsCbhnj/04.jpg",
+      "title": "Unlocking the Power of the Mind",
+      "author": "Mindfulness Guru",
+      "author_img": "https://i.ibb.co/486dtVL/logo4.jpg",
+      "posted_date": "2024-04-03",
+      "reading_time": 15,
+      "hashtags": ["#Mindfulness", "#Meditation", "#Wellness"]
+    },
+    {
+      "id": "005",
+      "cover": "https://i.ibb.co/9ppNyZv/05.jpg",
+      "title": "The Rise and Fall of an Empire",
+      "author": "Historian123",
+      "author_img": "https://i.ibb.co/5kTpyTh/logo5.jpg",
+      "posted_date": "2024-04-02",
+      "reading_time": 20,
+      "hashtags": ["#History", "#AncientCivilizations", "#Empires"]
+    }
+  ]
+  
